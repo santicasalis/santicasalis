@@ -4,6 +4,17 @@
 ¡Hola! Soy una persona apasionada por la tecnología, mi objetivo es formar parte de equipos colaborativos, donde pueda aportar y aprender, con el objetivo final de contribuir al crecimiento y éxito de proyectos tecnológicos.
 Tengo más de 9 años de experiencia en el sector automotriz, he destacado como responsable de procesos de atención al cliente y asistente administrativo en marketing y recursos humanos. Mi historial incluye liderar equipos para garantizar altos estándares de servicio, implementar estrategias efectivas para mejorar la experiencia del cliente y gestionar eficientemente reclamaciones. He integrado tecnologías para optimizar procesos administrativos
 
+## Habilidades Técnicas
+
+* JavaScript
+* React js
+* Vue js
+* Next js
+* Redux
+* Express
+* PostgreSql
+* Sequelize
+
 ## Proyectos Destacados
 
 ### ConnectInk
@@ -19,19 +30,6 @@ Tengo más de 9 años de experiencia en el sector automotriz, he destacado como 
 * **Tecnologías Utilizadas:**
   - Vue.js, Supabase
   - **Enlace web:** https://final-project-teal.vercel.app/inicio
-
-
-
-## Habilidades Técnicas
-
-* JavaScript
-* React js
-* Vue js
-* Next js
-* Redux
-* Express
-* PostgreSql
-* Sequelize
 
 ## Contacto
 
