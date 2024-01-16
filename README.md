@@ -1,10 +1,11 @@
 
 
 ### FullStack Developer
-¡Hola! Soy una persona apasionada por la tecnología, mi objetivo es formar parte de equipos colaborativos, donde pueda aportar y aprender, con el objetivo final de contribuir al crecimiento y éxito de proyectos tecnológicos.
-Tengo más de 9 años de experiencia en el sector automotriz, he destacado como responsable de procesos de atención al cliente y asistente administrativo en marketing y recursos humanos. Mi historial incluye liderar equipos para garantizar altos estándares de servicio, implementar estrategias efectivas para mejorar la experiencia del cliente y gestionar eficientemente reclamaciones. He integrado tecnologías para optimizar procesos administrativos
+Hello! I am a person passionate about technology, my goal is to be part of collaborative teams, where I can contribute and learn, with the ultimate goal of contributing to the growth and success of technology projects.
+I have more than 9 years of experience in the automotive sector, I have excelled as responsible for customer service processes and administrative assistant in marketing and human resources.
+ My background includes leading teams to ensure high service standards, implementing effective strategies to improve customer experience and efficiently managing claims. I have integrated technologies to optimize administrative processes
 
-## Habilidades Técnicas
+## Technical Skills
 
 * JavaScript
 * React js
@@ -15,27 +16,26 @@ Tengo más de 9 años de experiencia en el sector automotriz, he destacado como 
 * PostgreSql
 * Sequelize
 
-## Proyectos Destacados
-
+## Featured Projects
 ### ConnectInk
 * **Descripción:**
-  - ConnectInk es una plataforma web innovadora diseñada para simplificar y mejorar la experiencia de obtener tatuajes. Esta aplicación conecta a talentosos artistas de tatuajes con clientes , brindando un espacio donde los artistas pueden mostrar sus trabajos y los clientes pueden hacer reservas fácilmente.
-* **Tecnologías Utilizadas:**
+  - ConnectInk is an innovative web platform designed to simplify and enhance the experience of getting tattoos. This application connects talented tattoo artists with clients, providing a space where artists can showcase their work and clients can easily make bookings.
+* **Technologies:**
   - Next.js, Express, PostgreSQL, Redux, Sequelize, Firebase
-  -  **Enlace web:** https://connectink.vercel.app/
+  -  **Web link:** https://connectink.vercel.app/
 
 ### ToDoList
-* **Descripción:**
-  - TodoList es una aplicación  de gestión de tareas que te permite organizar y agendar tus actividades diarias de manera eficiente. Con una interfaz intuitiva y funciones versátiles, esta aplicación hace que la gestión de tareas sea rápida y efectiva.
-* **Tecnologías Utilizadas:**
+* **Description:**
+  - TodoList is a task management application that allows you to organize and schedule your daily activities efficiently. With an intuitive interface and versatile features, this application makes task management fast and effective.
+* **Technologies:**
   - Vue.js, Supabase
-  - **Enlace web:** https://final-project-teal.vercel.app/inicio
+  - **Web link:** https://final-project-teal.vercel.app/inicio
 
-## Contacto
+## Contact
 
-* **Correo Electrónico:** santicasalis@gmail.com
+* **E-mail:** santicasalis@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/santiagocasalis/
-* **Teléfono:** 1153492473
+* **Phone:** 1153492473
 * **WhatsApp:** https://walink.co/1c149c
  
 
