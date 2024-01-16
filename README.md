@@ -2,7 +2,9 @@
 
 ### FullStack Developer
 Hello! I am a person passionate about technology, my goal is to be part of collaborative teams, where I can contribute and learn, with the ultimate goal of contributing to the growth and success of technology projects.
+
 I have more than 9 years of experience in the automotive sector, I have excelled as responsible for customer service processes and administrative assistant in marketing and human resources.
+
  My background includes leading teams to ensure high service standards, implementing effective strategies to improve customer experience and efficiently managing claims. I have integrated technologies to optimize administrative processes
 
 ## Technical Skills
