@@ -17,7 +17,7 @@ I have more than 9 years of experience in the automotive sector, I have excelled
 * PostgreSql
 * Sequelize
 
-##contact
+### Contact
 
 * **E-mail:** santicasalis@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/santiagocasalis/
