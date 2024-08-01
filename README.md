@@ -6,7 +6,7 @@ I have more than 9 years of experience in the automotive sector, I have excelled
 
  My background includes leading teams to ensure high service standards, implementing effective strategies to improve customer experience and efficiently managing claims. I have integrated technologies to optimize administrative processes
 
-## Technical Skills
+### Technical Skills
 
 * JavaScript
 * React js
